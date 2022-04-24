@@ -8,7 +8,7 @@ I'm a programmer who enjoys videogames. I work on projects in my spare time. Lif
 
 A webpage to view the latest official songlist for SOUND VOLTEX, with search and level/availability filters.
 
-The source code to my website is private, but the script I use to scrape the songlist from both official KONAMI pages can be found [here](https://github.com/myshkin81/sdvx-songlist). There are some low-probability bugs I need to iron out in it (KONAMI's servers sometimes return an empty page!) but it works okay.
+The script I use to scrape the songlist from both official KONAMI pages can be found [here](https://github.com/myshkin81/sdvx-songlist). There are some low-probability bugs I need to iron out in it (KONAMI's servers sometimes return an empty page!) but it works okay.
 
 ## Upcoming projects
 
