@@ -15,3 +15,7 @@ The source code to my website is private, but the script I use to scrape the son
 - `.ksh` chart parser
 - K-Shoot MANIA chart viewer
 - SOUND VOLTEX clone?
+
+## Support
+
+You can support me [here](https://ko-fi.com/myshkin), though right now I haven't done much yet. Still, it would be very appreciated nonetheless.
