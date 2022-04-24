@@ -18,4 +18,4 @@ The source code to my website is private, but the script I use to scrape the son
 
 ## Support
 
-You can support me [here](https://ko-fi.com/myshkin), though right now I haven't done much yet. Still, it would be very appreciated nonetheless.
+You can support me on [Ko-fi](https://ko-fi.com/myshkin), though right now I haven't done much yet. Still, it would be very appreciated nonetheless.
