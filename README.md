@@ -6,16 +6,14 @@ I'm a programmer who enjoys videogames. I work on projects in my spare time. Lif
 
 ### [SOUND VOLTEX Songlist](https://myshkin.io/sdvx/songlist)
 
-A webpage to view the latest official songlist for SOUND VOLTEX, with search and level/availability filters.
-
-The script I use to scrape the songlist from both official KONAMI pages can be found [here](https://github.com/myshkin81/sdvx-songlist). There are some low-probability bugs I need to iron out in it (KONAMI's servers sometimes return an empty page!) but it works okay.
+A webpage to view the latest official songlist for SOUND VOLTEX, with search and level/availability filters. I'm currently working on making it much better.
 
 ## Upcoming projects
 
-- `.ksh` chart parser
+- `.ksh` or `.kson` chart parser
 - K-Shoot MANIA chart viewer
 - SOUND VOLTEX clone?
 
 ## Support
 
-You can support me on [Ko-fi](https://ko-fi.com/myshkin), though right now I haven't done much yet. Still, it would be very appreciated nonetheless.
+You can support me on [Ko-fi](https://ko-fi.com/myshkin), though right now I haven't done much yet.
